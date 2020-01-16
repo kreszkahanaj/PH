@@ -1,0 +1,17 @@
+ body {
+        background-color: #FDFDFD;
+      }
+
+ .jumbotron {
+        background-color: #F6F6F6;
+		text-align: center;
+      }
+
+ .card-footer {
+        background-color: #F6F6F6;
+		text-align: right;
+      }
+	  
+ .musicFiles{
+		text-align: center;
+      }
